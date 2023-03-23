@@ -14,7 +14,7 @@ app.use(
   cors({
     origin: [
       "http://10.12.1.151:3000",
-      "https://todo-deploy-mern-api.onrender.com",
+      "https://todo-deploy-mern.onrender.com",
     ],
   })
 );
